@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sesion 2</string>
+    <string name="activity_main_name">Nombre</string>
+    <string name="activity_main_name_hint">Ingresa tu nombre</string>
+    <string name="activity_main_phone">Telefono</string>
+    <string name="activity_main_phone_hint">Ingresa tu telefono</string>
+    <string name="activity_main_save">Guardar</string>
+
+    <string name="activity_main_name_required">Nombre requerido!</string>
+    <string name="activity_main_phone_required">Telefono requerido!</string>
+    <string name="activity_main_values_repeated">Los valores no deben ser iguales al hint.</string>
+</resources>
